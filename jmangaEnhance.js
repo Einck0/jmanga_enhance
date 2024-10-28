@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Make zing.timeleft variable always equal to 1
-// @author       You
+// @author       Einck0
 // @match        *://jmanga.plus/*
 // @grant        none
 // ==/UserScript==
