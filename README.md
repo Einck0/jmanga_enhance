@@ -1,2 +1,2 @@
 # jmanga_enhance
-Remove jmanga wait time .
+Remove jmanga.plus wait time .
